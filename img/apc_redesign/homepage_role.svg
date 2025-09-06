@@ -16,12 +16,10 @@
 <path d="M199 250C267.142 250 288.858 214 357 214" stroke="#D9D9D9" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel"/>
 <text fill="#888888" xml:space="preserve" style="white-space: pre" font-family="PingFang SC" font-size="24" font-weight="600" letter-spacing="-0.019em"><tspan x="710" y="263.64">APC</tspan></text>
 <text fill="#888888" xml:space="preserve" style="white-space: pre" font-family="PingFang SC" font-size="16" font-weight="600" letter-spacing="-0.011em"><tspan x="929" y="368.76">&#x8d22;&#x52a1;</tspan></text>
-<text fill="#888888" xml:space="preserve" style="white-space: pre" font-family="PingFang SC" font-size="16" font-weight="600" letter-spacing="-0.011em"><tspan x="929" y="296.76">QC</tspan></text>
-<text fill="#888888" xml:space="preserve" style="white-space: pre" font-family="PingFang SC" font-size="16" font-weight="600" letter-spacing="-0.011em"><tspan x="929" y="224.76">APM/PMA</tspan></text>
+<text fill="#888888" xml:space="preserve" style="white-space: pre" font-family="PingFang SC" font-size="16" font-weight="600" letter-spacing="-0.011em"><tspan x="929" y="260.76">QC</tspan></text>
 <text fill="#888888" xml:space="preserve" style="white-space: pre" font-family="PingFang SC" font-size="16" font-weight="600" letter-spacing="-0.011em"><tspan x="929" y="152.76">&#x5236;&#x4f5c;&#x4eba;</tspan></text>
 <path d="M765 255C844.933 255 843.067 363 923 363" stroke="#E8E8E8" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel"/>
-<path d="M765 255C833.142 255 854.858 291 923 291" stroke="#E8E8E8" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel"/>
-<path d="M765 255C833.142 255 854.858 219 923 219" stroke="#E8E8E8" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M765 255H923" stroke="#E8E8E8" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel"/>
 <path d="M765 255C844.933 255 843.067 147 923 147" stroke="#E8E8E8" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel"/>
 <defs>
 <pattern id="pattern0_3689_48022" patternUnits="userSpaceOnUse" patternTransform="matrix(14 0 0 14 0 0)" preserveAspectRatio="none" viewBox="0 0 14 14" width="1" height="1">
